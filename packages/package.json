@@ -1,0 +1,22 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likabek/projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likabek/projects/issues"
+  },
+  "homepage": "https://github.com/likabek/projects#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
